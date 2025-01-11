@@ -7,6 +7,10 @@ public class Main {
         return x + y;
     }
 
+    public static int subtraction(int x , int y){
+        return x - y;
+    }
+
 
     public static void main(String[] args) {
 
