@@ -7,13 +7,13 @@ public class Main {
         return x + y;
     }
 
-<<<<<<< HEAD
-    public static int subtraction(int x , int y){
+    public static int subtraction(int x , int y) {
         return x - y;
-=======
+    }
+
     public static int multiplication(int x , int y){
         return x * y;
->>>>>>> bc3b2b935e11f26361cdf4883021e986fc9da0e9
+
     }
 
 
